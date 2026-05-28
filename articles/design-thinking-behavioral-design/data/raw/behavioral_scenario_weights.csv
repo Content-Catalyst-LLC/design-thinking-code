@@ -1,0 +1,7 @@
+scenario,expected_behavior_gain,importance,equity_reach,transparency,autonomy_preservation,trust_effect,accessibility_effect,durability,ethical_risk,implementation_effort
+Balanced,0.22,0.14,0.16,0.08,0.08,0.10,0.10,0.06,0.04,0.02
+Equity First,0.16,0.12,0.30,0.08,0.08,0.08,0.14,0.04,0.00,0.00
+Ethics Sensitive,0.16,0.12,0.16,0.12,0.14,0.08,0.08,0.04,0.08,0.02
+Implementation Ready,0.20,0.12,0.12,0.06,0.06,0.08,0.08,0.06,0.04,0.18
+Trust and Recovery,0.18,0.12,0.14,0.10,0.10,0.22,0.08,0.04,0.02,0.00
+Durability First,0.18,0.12,0.12,0.08,0.08,0.08,0.08,0.24,0.02,0.00

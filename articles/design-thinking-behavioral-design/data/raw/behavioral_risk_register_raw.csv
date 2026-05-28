@@ -1,0 +1,9 @@
+intervention,risk_category,risk_description,severity,likelihood,detectability,mitigation_owner,mitigation_status
+Simplified Renewal Pathway,oversimplification,Simplification may remove information needed for informed action,4,2,3,service_design_owner,active
+Plain-Language Eligibility Message,misinterpretation,Plain-language messaging may unintentionally overpromise eligibility,4,3,3,content_owner,active
+Timely SMS Reminder,privacy_intrusion,Reminder timing may expose sensitive service use on shared devices,4,3,4,privacy_owner,active
+Assisted Digital Support,capacity_constraint,Assisted support may create demand that exceeds staffing capacity,4,4,3,operations_owner,active
+Commitment Planning Prompt,shame_pressure,Commitment prompts may create guilt without reducing structural barriers,3,3,3,behavioral_design_owner,active
+Transparent Status and Recovery Pathway,expectation_gap,Status transparency may expose delays without enough recovery capacity,4,3,3,service_owner,active
+Pre-Filled Known Information,data_error,Pre-filled information may propagate inaccurate records if correction is difficult,5,3,4,data_governance_owner,active
+Human Escalation Trigger,unequal_access,Escalation may advantage assertive users if criteria are unclear,4,3,4,support_owner,active

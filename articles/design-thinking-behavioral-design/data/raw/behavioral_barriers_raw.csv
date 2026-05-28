@@ -1,0 +1,9 @@
+segment,target_behavior,motivation,capability,opportunity,trust,friction,affectedness,time_pressure,cognitive_load,emotional_load,social_support,institutional_risk
+Confident Users,Complete renewal before deadline,7.8,8.2,8.0,7.6,3.4,0.55,4.0,3.5,3.2,7.8,3.0
+Low Digital Access Users,Complete renewal before deadline,6.4,5.4,5.0,5.6,7.2,0.86,6.4,7.2,6.0,5.8,5.6
+High Time-Pressure Users,Complete renewal before deadline,7.0,6.2,4.8,5.8,7.6,0.80,8.6,6.8,6.4,5.2,5.2
+Low-Trust Users,Complete renewal before deadline,5.8,6.0,5.6,4.6,7.4,0.84,6.2,6.6,7.6,4.8,7.4
+Limited English Users,Complete renewal before deadline,6.5,5.5,5.4,5.8,7.0,0.88,6.0,7.4,6.8,5.6,6.0
+Disabled Users,Complete renewal before deadline,6.8,5.8,5.2,5.4,7.8,0.92,6.8,7.6,7.2,5.4,6.4
+Caregivers and Intermediaries,Complete renewal before deadline,7.2,6.8,6.0,6.2,6.8,0.78,7.8,6.2,6.6,6.4,5.4
+First-Time Applicants,Complete first application,7.0,5.9,5.5,5.6,7.4,0.86,6.8,7.8,7.0,5.0,6.6

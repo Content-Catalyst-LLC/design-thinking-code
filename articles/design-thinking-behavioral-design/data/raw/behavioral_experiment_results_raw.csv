@@ -1,0 +1,9 @@
+experiment_id,intervention,segment,control_n,treatment_n,control_successes,treatment_successes,mean_completion_time_control,mean_completion_time_treatment,complaint_rate_control,complaint_rate_treatment,trust_score_control,trust_score_treatment
+EXP001,Simplified Renewal Pathway,Low Digital Access Users,480,500,226,288,18.5,13.2,0.072,0.058,5.6,6.4
+EXP002,Plain-Language Eligibility Message,Limited English Users,420,430,181,218,20.1,17.5,0.068,0.060,5.8,6.3
+EXP003,Timely SMS Reminder,High Time-Pressure Users,550,560,298,331,16.8,16.2,0.050,0.054,5.8,5.9
+EXP004,Assisted Digital Support,Disabled Users,360,370,154,214,24.2,18.6,0.082,0.054,5.4,6.8
+EXP005,Commitment Planning Prompt,Confident Users,600,610,426,452,11.2,10.8,0.030,0.034,7.6,7.5
+EXP006,Transparent Status and Recovery Pathway,Low-Trust Users,410,420,184,236,21.0,17.8,0.090,0.060,4.6,5.9
+EXP007,Pre-Filled Known Information,First-Time Applicants,460,470,212,256,22.4,18.2,0.076,0.072,5.6,6.0
+EXP008,Human Escalation Trigger,Caregivers and Intermediaries,390,400,208,244,19.0,15.4,0.062,0.046,6.2,7.0
