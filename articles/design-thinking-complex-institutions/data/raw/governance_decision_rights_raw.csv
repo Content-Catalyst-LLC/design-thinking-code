@@ -1,0 +1,9 @@
+decision_domain,owner,approval_authority,budget_authority,policy_authority,data_authority,implementation_authority,community_accountability,escalation_clarity,review_cadence,maintenance_ownership
+Eligibility rules,policy_office,0.72,0.48,0.86,0.42,0.52,0.46,0.58,0.52,0.50
+Service channel design,service_owner,0.76,0.62,0.58,0.54,0.78,0.50,0.66,0.60,0.64
+Cross-department handoffs,operations_council,0.58,0.52,0.50,0.48,0.54,0.42,0.46,0.44,0.42
+Data governance,data_governance_board,0.68,0.56,0.54,0.86,0.58,0.38,0.62,0.58,0.60
+AI-assisted research governance,research_governance_board,0.62,0.50,0.48,0.72,0.52,0.44,0.56,0.52,0.46
+Community participation,community_partnerships,0.54,0.46,0.42,0.36,0.44,0.72,0.48,0.46,0.40
+Frontline escalation,operations_owner,0.74,0.60,0.56,0.52,0.82,0.42,0.70,0.62,0.66
+Institutional evaluation,learning_office,0.66,0.54,0.50,0.68,0.56,0.48,0.60,0.72,0.52

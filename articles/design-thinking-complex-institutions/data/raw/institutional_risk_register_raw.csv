@@ -1,0 +1,11 @@
+risk_id,option,risk_category,risk_description,severity,likelihood,detectability,repair_difficulty,mitigation_owner,mitigation_status
+IR001,Simplify eligibility pathway,policy_misalignment,Eligibility simplification may conflict with statutory or compliance interpretations,4,3,3,3,policy_office,active
+IR002,Create assisted access model,capacity,Assisted access may be underfunded and create wait times,4,4,3,4,service_owner,active
+IR003,Redesign cross-department handoffs,coordination,Shared handoffs may fail without cross-unit accountability,4,4,4,4,operations_council,active
+IR004,Build institutional learning dashboard,metric_capture,Dashboard may privilege measurable efficiency over dignity and burden,4,3,4,3,learning_office,active
+IR005,Prototype community accountability board,participation_washing,Board may become symbolic without decision influence,5,3,4,4,community_partnerships,active
+IR006,Modernize legacy case-management data,data_migration,Legacy modernization may fail due to data quality and integration limits,5,4,4,5,data_governance_board,active
+IR007,Redesign frontline escalation process,hidden_labor,Escalation redesign may shift unresolved burden to frontline staff,4,3,3,4,operations_owner,active
+IR008,Create AI-assisted research synthesis workflow,ai_governance,AI synthesis may flatten minority signals or overstate confidence,5,3,4,4,research_governance_board,active
+IR009,Develop burden audit and repair pathway,accountability,Repair commitments may lack authority or budget,5,3,3,4,ethics_owner,active
+IR010,Create policy interpretation review board,authority,Review board may lack decision authority over policy interpretations,4,3,3,3,policy_office,active

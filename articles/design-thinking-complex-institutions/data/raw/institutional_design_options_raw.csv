@@ -1,0 +1,11 @@
+option,option_type,desirability,authority,capability,funding,policy_fit,governance_strength,trust_gain,burden_reduction,coordination_complexity,implementation_risk,data_readiness,frontline_fit,maintenance_capacity,equity_priority,public_value
+Simplify eligibility pathway,policy_service_redesign,8.8,6.4,6.8,6.6,6.0,6.2,8.2,8.6,6.8,5.8,6.0,6.8,6.2,8.4,8.8
+Create assisted access model,access_service_model,9.0,6.8,6.4,6.2,6.4,6.4,8.8,8.4,7.2,6.2,5.8,7.0,6.4,9.0,9.0
+Redesign cross-department handoffs,workflow_governance,8.2,5.8,5.6,5.8,6.8,5.6,7.6,7.4,8.6,7.4,6.2,6.0,5.8,7.6,8.0
+Build institutional learning dashboard,data_learning_system,7.6,7.2,7.0,6.8,7.4,7.2,6.8,6.2,6.4,5.6,7.4,6.6,6.8,6.8,7.4
+Prototype community accountability board,participatory_governance,8.4,5.4,5.8,5.4,5.8,5.8,9.0,7.8,7.8,6.8,5.6,6.0,5.6,9.2,8.6
+Modernize legacy case-management data,data_infrastructure,7.8,6.0,5.2,5.0,7.0,6.0,6.4,6.8,8.8,8.0,5.4,5.4,5.0,7.2,7.6
+Redesign frontline escalation process,frontline_operations,8.6,7.0,7.2,6.6,7.2,7.0,7.8,8.0,6.6,5.4,6.8,8.0,7.0,7.8,8.4
+Create AI-assisted research synthesis workflow,ai_research_governance,7.4,6.6,6.2,6.0,6.6,6.4,6.6,6.4,7.4,6.6,7.0,6.2,6.4,6.8,7.2
+Develop burden audit and repair pathway,ethics_accountability,8.8,6.2,6.4,6.0,6.6,6.8,8.6,9.0,7.2,6.0,6.2,7.0,6.6,9.0,8.8
+Create policy interpretation review board,policy_governance,7.8,5.8,5.8,5.4,7.6,6.4,7.4,7.6,7.8,6.8,6.0,6.2,5.8,8.0,8.2

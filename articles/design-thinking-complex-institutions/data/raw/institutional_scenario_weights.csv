@@ -1,0 +1,8 @@
+scenario,change_readiness,absorption_capacity,public_value_priority,burden_reduction,governance_strength,implementation_risk,sequencing_need,equity_priority,data_readiness,trust_gain
+Balanced,0.18,0.16,0.18,0.11,0.10,0.10,0.08,0.04,0.03,0.02
+Public Value First,0.13,0.10,0.30,0.16,0.08,0.07,0.05,0.07,0.02,0.02
+Governance First,0.14,0.13,0.13,0.08,0.24,0.10,0.08,0.04,0.04,0.02
+Burden and Equity First,0.12,0.10,0.17,0.24,0.08,0.07,0.05,0.13,0.02,0.02
+Implementation Risk First,0.12,0.14,0.12,0.08,0.10,0.24,0.12,0.03,0.03,0.02
+Data and Learning First,0.14,0.13,0.13,0.08,0.10,0.08,0.06,0.03,0.20,0.05
+Trust and Legitimacy First,0.14,0.10,0.16,0.12,0.10,0.08,0.05,0.08,0.02,0.15
