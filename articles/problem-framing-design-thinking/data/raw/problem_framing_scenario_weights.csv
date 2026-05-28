@@ -1,0 +1,9 @@
+scenario,explanatory_adequacy,stakeholder_coverage,opportunity_value,framing_risk
+Balanced,0.30,0.25,0.30,0.15
+Explanation First,0.45,0.20,0.20,0.15
+Coverage First,0.20,0.45,0.20,0.15
+Opportunity First,0.20,0.20,0.45,0.15
+Risk Sensitive,0.25,0.20,0.20,0.35
+Systems Sensitive,0.25,0.35,0.25,0.15
+Actionability First,0.25,0.20,0.40,0.15
+Power Aware,0.25,0.35,0.20,0.20

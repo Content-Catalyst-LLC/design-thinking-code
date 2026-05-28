@@ -1,0 +1,8 @@
+dominant_frame,counterframe,reason_to_test,missing_evidence_risk,power_convenience_risk
+Improve transit capacity,Reduce commuter uncertainty,Capacity framing may miss reliability and information needs,0.70,0.55
+Improve transit reliability,Rebuild trust in mobility services,Reliability may not be enough where institutional trust is damaged,0.58,0.50
+Reduce commuter uncertainty,Redesign cross-network coordination,Uncertainty may be produced by coordination failures across systems,0.62,0.54
+Redesign cross-network coordination,Reduce institutional travel burden,Coordination framing may understate user burden and access barriers,0.57,0.52
+Reduce institutional travel burden,Clarify service status and disruptions,Burden may be driven by lack of timely service visibility,0.54,0.47
+Rebuild trust in mobility services,Improve transit reliability,Trust framing may become too broad unless connected to operational evidence,0.64,0.58
+Clarify service status and disruptions,Improve transit reliability,Communication framing may hide deeper reliability problems,0.60,0.56
