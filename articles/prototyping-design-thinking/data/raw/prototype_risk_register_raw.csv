@@ -1,0 +1,9 @@
+prototype,risk_category,risk_description,severity,likelihood,detectability,mitigation_owner,mitigation_status
+Paper Service Blueprint,operational,Backstage steps may be oversimplified in paper representation,3,3,4,service_design,active
+Clickable Interface Mockup,technical,Interactive mockup may hide integration and data-flow complexity,4,3,3,engineering,active
+Role-Played Intake Scenario,ethical,Participants may disclose stressful service experiences during role play,4,3,4,research_lead,active
+Limited Workflow Pilot,scaling,Pilot may work under protected staffing conditions that cannot be sustained,5,4,3,operations,active
+Wizard-of-Oz Status Assistant,ethical,Participants may overtrust simulated automation if status is unclear,5,3,3,research_lead,active
+Exception-Case Service Simulation,operational,Exception cases may reveal unresolved decision-rights conflicts,4,4,4,program_owner,active
+Plain-Language Policy Mockup,policy,Simplified language may conflict with formal eligibility language,4,3,4,policy_counsel,active
+Operational Tabletop Exercise,governance,Decision authority may remain unresolved after simulation,5,4,3,governance_owner,active

@@ -1,0 +1,9 @@
+prototype,prototype_type,fidelity_level,learning_gain,feasibility_signal,user_response,equity_value,implementation_relevance,ethical_risk,operational_risk,technical_risk,scaling_risk,evidence_quality,prototype_testability,stakeholder_coverage
+Paper Service Blueprint,service_blueprint,low,8.6,7.1,8.0,7.8,7.4,3.8,4.2,2.8,3.6,0.74,0.89,0.72
+Clickable Interface Mockup,digital_mockup,mid,7.9,8.0,8.3,7.0,7.8,3.6,4.0,4.1,4.0,0.77,0.86,0.68
+Role-Played Intake Scenario,experience_prototype,low,8.2,7.4,8.5,8.3,7.6,4.2,4.5,3.0,4.4,0.79,0.82,0.75
+Limited Workflow Pilot,pilot,high,8.0,8.4,7.8,7.7,8.7,4.4,3.8,4.6,4.8,0.82,0.72,0.70
+Wizard-of-Oz Status Assistant,wizard_of_oz,mid,8.4,7.2,8.2,7.5,7.9,5.1,4.8,5.4,5.2,0.70,0.79,0.64
+Exception-Case Service Simulation,service_simulation,mid,8.7,7.6,8.4,8.6,8.3,4.3,4.9,3.5,5.0,0.78,0.81,0.78
+Plain-Language Policy Mockup,policy_prototype,low,8.1,8.2,8.0,8.4,7.9,3.2,3.6,2.6,3.8,0.81,0.88,0.74
+Operational Tabletop Exercise,governance_prototype,mid,8.3,7.9,7.4,7.8,8.6,4.0,5.2,3.2,5.5,0.76,0.73,0.69
