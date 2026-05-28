@@ -1,0 +1,10 @@
+stakeholder_group,included_sessions,priority_level,access_risk,power_asymmetry,notes
+First-time applicants,5,high,0.62,0.67,Core group navigating documentation and status uncertainty.
+Caregivers,4,high,0.70,0.75,Often perform translation and coordination labor.
+Frontline staff,5,high,0.45,0.54,Reveal manual workarounds and handoff breakdowns.
+Administrators,3,medium,0.30,0.44,Reveal policy interpretation and governance assumptions.
+Community partners,4,high,0.66,0.81,Surface trust gaps and outreach constraints.
+Excluded users,4,critical,0.88,0.89,Highest access risk and most important exclusion signal.
+Case supervisors,2,medium,0.42,0.58,Connect frontline cases to escalation and policy.
+Language-access advocates,1,critical,0.76,0.84,Important missing-voice signal for language access.
+Digital support staff,2,medium,0.50,0.58,Connect portal problems to support workflow.

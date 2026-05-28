@@ -1,0 +1,31 @@
+unit_id,participant_group,method,primary_theme,secondary_theme,evidence_strength,interpretive_risk,environmental_constraint,artifact_dependency,workflow_stage,privacy_sensitivity,power_asymmetry
+1,First-time applicants,contextual_observation,status_uncertainty,trust_gap,8.2,3.5,6.5,7.2,submission_followup,0.55,0.68
+2,First-time applicants,interview,documentation_confusion,access_barrier,7.5,4.0,5.9,6.8,preparation,0.48,0.62
+3,Caregivers,artifact_review,translation_labor,documentation_confusion,8.0,3.8,6.8,8.1,preparation,0.52,0.72
+4,Frontline staff,contextual_observation,manual_workaround,handoff_breakdown,8.6,3.4,5.0,8.8,case_processing,0.40,0.50
+5,Frontline staff,artifact_review,manual_workaround,policy_complexity,8.3,3.6,5.4,8.6,case_processing,0.38,0.54
+6,Administrators,interview,policy_complexity,documentation_confusion,7.2,4.2,4.8,5.1,policy_interpretation,0.35,0.42
+7,Community partners,workshop,trust_gap,access_barrier,7.8,4.1,7.5,6.4,outreach,0.50,0.78
+8,Excluded users,interview,access_barrier,trust_gap,8.4,4.4,8.4,6.9,entry_point,0.62,0.86
+9,Excluded users,contextual_observation,access_barrier,status_uncertainty,8.7,4.5,8.7,7.4,entry_point,0.66,0.88
+10,First-time applicants,artifact_review,documentation_confusion,policy_complexity,7.6,4.0,6.1,8.0,preparation,0.52,0.64
+11,Caregivers,interview,translation_labor,access_barrier,8.1,3.9,7.2,7.1,preparation,0.57,0.76
+12,Frontline staff,contextual_observation,handoff_breakdown,manual_workaround,8.5,3.7,5.8,7.9,case_transfer,0.42,0.55
+13,Administrators,process_walkthrough,policy_complexity,handoff_breakdown,7.3,4.3,4.6,5.8,policy_interpretation,0.36,0.45
+14,Community partners,workshop,trust_gap,status_uncertainty,8.0,4.0,7.8,6.5,outreach,0.51,0.80
+15,First-time applicants,interview,status_uncertainty,trust_gap,8.1,3.6,6.4,7.0,submission_followup,0.54,0.66
+16,Excluded users,contextual_observation,access_barrier,documentation_confusion,8.8,4.6,8.9,7.8,entry_point,0.68,0.90
+17,Caregivers,artifact_review,translation_labor,policy_complexity,8.0,3.8,7.0,8.2,preparation,0.58,0.74
+18,Frontline staff,interview,handoff_breakdown,manual_workaround,8.2,3.9,5.6,7.6,case_transfer,0.43,0.56
+19,Community partners,workshop,trust_gap,access_barrier,7.9,4.1,7.6,6.2,outreach,0.53,0.81
+20,Administrators,process_walkthrough,policy_complexity,documentation_confusion,7.4,4.2,4.7,5.4,policy_interpretation,0.34,0.44
+21,First-time applicants,contextual_observation,status_uncertainty,status_uncertainty,8.3,3.5,6.7,7.3,submission_followup,0.56,0.67
+22,Excluded users,interview,access_barrier,trust_gap,8.5,4.7,8.5,6.7,entry_point,0.67,0.89
+23,Caregivers,artifact_review,translation_labor,translation_labor,8.2,3.9,7.1,8.4,preparation,0.59,0.75
+24,Frontline staff,contextual_observation,manual_workaround,handoff_breakdown,8.4,3.6,5.2,8.7,case_processing,0.41,0.53
+25,Case supervisors,interview,handoff_breakdown,policy_complexity,7.9,4.0,5.4,6.9,case_transfer,0.45,0.58
+26,Case supervisors,artifact_review,manual_workaround,handoff_breakdown,8.1,3.8,5.2,8.1,case_processing,0.44,0.57
+27,Language-access advocates,workshop,translation_labor,access_barrier,8.5,4.2,7.9,7.7,preparation,0.61,0.84
+28,Digital support staff,process_walkthrough,status_uncertainty,handoff_breakdown,7.8,3.9,5.7,7.5,submission_followup,0.49,0.59
+29,Digital support staff,contextual_observation,documentation_confusion,manual_workaround,7.7,3.9,5.8,7.9,preparation,0.47,0.57
+30,Community partners,artifact_review,access_barrier,translation_labor,8.3,4.3,8.1,7.5,outreach,0.56,0.83

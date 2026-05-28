@@ -1,0 +1,9 @@
+scenario,evidence_strength,stakeholder_coverage,method_triangulation,interpretive_risk
+Balanced,0.35,0.25,0.25,0.15
+Evidence First,0.50,0.20,0.20,0.10
+Coverage First,0.25,0.45,0.20,0.10
+Method Triangulation First,0.25,0.20,0.45,0.10
+Risk Sensitive,0.30,0.20,0.20,0.30
+Equity Sensitive,0.30,0.35,0.20,0.15
+Fieldwork Sensitive,0.40,0.20,0.25,0.15
+Validation Sensitive,0.25,0.25,0.25,0.25
