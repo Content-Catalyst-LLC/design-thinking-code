@@ -1,0 +1,9 @@
+intervention,risk_category,risk_description,severity,likelihood,detectability,mitigation_owner,mitigation_status
+Digital Intake Workflow,technical,Integration failure could disrupt intake status and downstream routing,5,3,3,engineering,active
+Frontline Service Playbook,adoption,Playbook may be ignored if staff incentives remain aligned with legacy routines,4,3,4,operations,active
+Cross-Team Escalation Protocol,governance,Escalation ownership may remain ambiguous across teams,5,3,3,program_owner,active
+Community Outreach Scheduling Tool,equity,Digital scheduling may exclude users relying on trusted community intermediaries,4,4,3,equity_lead,active
+Status Visibility Service,data_quality,Status information may become stale and reduce trust,5,4,3,data_steward,active
+Implementation Learning Dashboard,measurement,Dashboard metrics may become performative without decision loops,4,3,4,evaluation_lead,active
+Training and Support System,capacity,Training may not survive turnover without dedicated ownership,4,3,3,training_owner,active
+Equity Monitoring Protocol,governance,Equity findings may not trigger accountable decisions,5,3,4,equity_governance,active
