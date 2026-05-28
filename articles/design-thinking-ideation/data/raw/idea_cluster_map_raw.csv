@@ -1,0 +1,9 @@
+idea,idea_cluster,cluster_distance,stakeholder_groups,methods_supporting,evidence_source_count,notes
+Peer Support Navigation Model,Human Support Models,0.18,5,4,21,Strongly connected to support and trust insights.
+Self-Service Digital Triage,Digital Self-Service,0.25,4,3,18,Feasible but may underperform for low-trust stakeholders.
+Mobile Outreach Partnership,Community Infrastructure,0.21,6,4,23,High equity value but operational partnerships need validation.
+AI-Assisted Intake Guidance,AI-Assisted Guidance,0.34,3,3,16,High novelty but high ethical and technical review priority.
+Status Visibility and Ownership Dashboard,Status Transparency,0.19,5,4,22,Strong response to uncertainty and procedural silence.
+Community-Based Service Liaison Model,Community Infrastructure,0.22,6,4,24,High equity and trust potential; resource model requires testing.
+Plain-Language Decision Guide,Guidance and Clarity,0.16,5,4,20,Low-risk clarity improvement with strong testability.
+Exception Handling Workflow Redesign,Operational Redesign,0.23,4,4,19,Strong systems intervention but depends on internal capacity.
