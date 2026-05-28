@@ -1,0 +1,9 @@
+scenario,human_benefit,usability,stakeholder_fit,burden
+Balanced,0.30,0.25,0.30,0.15
+Benefit First,0.45,0.20,0.20,0.15
+Usability First,0.20,0.45,0.20,0.15
+Stakeholder First,0.20,0.20,0.45,0.15
+Burden Sensitive,0.25,0.20,0.20,0.35
+Equity Sensitive,0.35,0.15,0.35,0.15
+Administrative Burden Reduction,0.20,0.20,0.20,0.40
+Institutional Adoption,0.25,0.30,0.25,0.20

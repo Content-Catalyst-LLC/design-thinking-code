@@ -1,0 +1,7 @@
+stakeholder_group,visibility_to_institution,power_to_influence_design,burden_exposure,access_risk,notes
+Digitally confident users,0.85,0.65,0.35,0.20,Often easiest to observe through digital analytics.
+Low-bandwidth users,0.35,0.25,0.75,0.85,May be excluded by digital-first processes.
+Frontline staff,0.65,0.55,0.70,0.30,Often create workarounds when formal systems fail.
+Caregivers and helpers,0.30,0.20,0.68,0.55,Frequently invisible in formal service design.
+Non-native language users,0.28,0.18,0.80,0.82,May face translation and trust barriers.
+Policy administrators,0.80,0.75,0.40,0.20,High institutional visibility and influence.
