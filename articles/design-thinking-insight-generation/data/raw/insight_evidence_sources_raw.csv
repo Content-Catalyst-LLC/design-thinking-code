@@ -1,0 +1,9 @@
+insight,evidence_source_count,stakeholder_groups,method_count,contradictory_cases,validation_priority,notes
+Users want clarity more than feature variety,18,4,3,2,0.48,Strong usability pattern but should be tested against feature-priority assumptions.
+Waiting uncertainty produces more frustration than waiting time itself,23,5,4,1,0.42,Well-supported across interview and observation evidence.
+Staff workarounds reveal hidden system failure points,20,3,4,3,0.55,Requires frontline validation and operational review.
+Users interpret procedural silence as institutional indifference,15,4,3,4,0.62,High interpretive and trust implications; validate with stakeholders.
+People ask for more information when they actually need confidence,17,4,3,3,0.54,Important distinction between content volume and decision confidence.
+Drop-off points reveal institutional burden rather than low motivation,19,5,4,3,0.58,Needs administrative data and lived-experience triangulation.
+Repeated calls reveal missing ownership rather than user dependency,14,3,3,4,0.61,May require workflow and service ownership mapping.
+Avoidance behavior signals trust breakdown more than preference,13,4,3,5,0.68,High-risk insight; requires careful interpretation and validation.

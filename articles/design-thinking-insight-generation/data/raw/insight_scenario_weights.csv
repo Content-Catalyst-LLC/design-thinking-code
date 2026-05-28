@@ -1,0 +1,9 @@
+scenario,pattern_support,explanatory_depth,opportunity_value,interpretive_risk
+Balanced,0.30,0.30,0.25,0.15
+Pattern First,0.45,0.20,0.20,0.15
+Explanation First,0.20,0.45,0.20,0.15
+Opportunity First,0.20,0.20,0.45,0.15
+Risk Sensitive,0.25,0.20,0.20,0.35
+Prototype Oriented,0.25,0.25,0.35,0.15
+Evidence Sensitive,0.35,0.30,0.20,0.15
+Power Aware,0.25,0.35,0.20,0.20
