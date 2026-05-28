@@ -1,0 +1,25 @@
+intervention,period,outcome_score,burden_score,equity_gap,trust_score,reliability_score,staff_burden,support_ticket_rate,complaint_rate,users_reached
+Status Visibility Service,1,6.2,5.4,0.16,6.6,0.89,5.2,0.24,0.060,800
+Status Visibility Service,2,7.1,4.8,0.12,7.2,0.93,4.7,0.17,0.045,2200
+Status Visibility Service,3,7.9,4.1,0.08,7.8,0.96,4.1,0.12,0.032,5600
+Plain-Language Support Guide,1,6.0,5.1,0.14,6.7,0.91,4.8,0.20,0.055,650
+Plain-Language Support Guide,2,7.2,4.3,0.09,7.3,0.94,4.0,0.13,0.038,1800
+Plain-Language Support Guide,3,8.0,3.5,0.05,7.8,0.97,3.5,0.08,0.025,4600
+Guided Intake Workflow,1,5.9,5.7,0.17,6.4,0.88,5.4,0.25,0.064,720
+Guided Intake Workflow,2,6.9,4.9,0.13,7.0,0.92,4.8,0.18,0.048,2100
+Guided Intake Workflow,3,7.8,4.0,0.09,7.5,0.95,4.2,0.13,0.034,5200
+Human Escalation Pathway,1,6.1,5.5,0.13,6.9,0.90,5.5,0.22,0.058,500
+Human Escalation Pathway,2,7.3,4.7,0.09,7.7,0.94,4.8,0.16,0.041,1450
+Human Escalation Pathway,3,8.1,3.9,0.06,8.3,0.96,4.2,0.11,0.028,3900
+Community Navigation Partnership,1,5.8,5.6,0.15,6.8,0.88,5.6,0.23,0.061,420
+Community Navigation Partnership,2,7.4,4.5,0.08,7.8,0.93,4.8,0.15,0.040,1350
+Community Navigation Partnership,3,8.4,3.7,0.04,8.5,0.95,4.1,0.10,0.027,3600
+Learning Dashboard,1,6.3,5.2,0.14,6.8,0.92,4.9,0.21,0.052,400
+Learning Dashboard,2,7.0,4.8,0.11,7.3,0.95,4.4,0.14,0.037,1200
+Learning Dashboard,3,7.7,4.2,0.08,7.7,0.97,3.8,0.09,0.026,3400
+Evaluation Governance Charter,1,5.7,5.4,0.15,6.6,0.90,5.1,0.20,0.054,300
+Evaluation Governance Charter,2,6.9,4.7,0.09,7.5,0.94,4.3,0.13,0.036,900
+Evaluation Governance Charter,3,7.8,3.9,0.05,8.0,0.96,3.7,0.08,0.024,2500
+Equity Outcome Review Loop,1,5.6,5.5,0.18,6.7,0.89,5.3,0.22,0.056,280
+Equity Outcome Review Loop,2,7.1,4.6,0.10,7.6,0.94,4.4,0.14,0.037,950
+Equity Outcome Review Loop,3,8.3,3.7,0.04,8.2,0.97,3.7,0.09,0.022,2800

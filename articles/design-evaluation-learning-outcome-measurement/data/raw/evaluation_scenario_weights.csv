@@ -1,0 +1,9 @@
+scenario,outcome_improvement,burden_reduction,equity_performance,trust_improvement,durability,penalty
+Balanced,0.24,0.20,0.20,0.16,0.14,0.06
+Outcome First,0.42,0.16,0.16,0.12,0.10,0.04
+Burden Sensitive,0.18,0.38,0.18,0.12,0.10,0.04
+Equity Sensitive,0.18,0.16,0.38,0.12,0.10,0.06
+Trust Sensitive,0.18,0.16,0.16,0.34,0.10,0.06
+Durability First,0.18,0.16,0.16,0.12,0.34,0.04
+Cost Risk Sensitive,0.20,0.18,0.18,0.14,0.10,0.20
+Evidence Sensitive,0.22,0.18,0.20,0.14,0.18,0.08

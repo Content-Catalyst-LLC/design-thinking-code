@@ -1,0 +1,9 @@
+intervention,risk_category,risk_description,severity,likelihood,detectability,mitigation_owner,mitigation_status
+Status Visibility Service,data_quality,Stale status information may reduce trust and increase escalation,5,3,3,data_steward,active
+Plain-Language Support Guide,oversimplification,Simplification may omit important edge-case or eligibility nuance,4,3,3,content_owner,active
+Guided Intake Workflow,burden_shift,Digital workflow may shift work to users with lower access or confidence,5,3,4,equity_lead,active
+Human Escalation Pathway,capacity,Escalation pathway may create unsustainable frontline workload,4,4,3,operations,active
+Community Navigation Partnership,dependency,Intervention may depend on community partners without adequate support,5,3,4,partnership_owner,active
+Learning Dashboard,metric_distortion,Dashboard metrics may encourage optimization of visible indicators only,4,3,4,evaluation_lead,active
+Evaluation Governance Charter,authority_gap,Findings may not reach decision-makers with authority to act,4,3,3,governance_owner,active
+Equity Outcome Review Loop,privacy,Equity monitoring may expose sensitive subgroup information if poorly governed,5,2,4,privacy_owner,active

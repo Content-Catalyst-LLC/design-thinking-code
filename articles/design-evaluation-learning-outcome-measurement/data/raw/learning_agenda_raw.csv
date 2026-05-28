@@ -1,0 +1,8 @@
+learning_question,claim_type,primary_metric,secondary_metric,decision_use,evidence_source,review_cadence
+Did the intervention improve the outcome it targeted?,outcome,outcome_score,current_quality,continue_revise_or_stop,administrative_data,quarterly
+Did burden decrease for users and staff?,burden,burden_score,staff_burden,redesign_support_or_workflow,journey_data_and_staff_logs,monthly
+Did equity gaps narrow?,equity,equity_gap,equity_performance,investigate_subgroups_and_adapt,equity_monitoring,monthly
+Did trust improve without exceeding reliability?,trust,trust_score,reliability_score,adjust_transparency_and_support,surveys_and_interviews,quarterly
+Did support demand fall or shift?,operations,support_ticket_rate,complaint_rate,adjust_training_and_help_channels,support_logs,monthly
+Is evidence strong enough for scale?,evidence,evidence_quality,method_triangulation,scale_pause_or_extend_evaluation,evaluation_review,quarterly
+Did unintended consequences appear?,risk,residual_risk,complaint_rate,escalate_review_or_redesign,risk_register_and_qualitative_review,monthly
