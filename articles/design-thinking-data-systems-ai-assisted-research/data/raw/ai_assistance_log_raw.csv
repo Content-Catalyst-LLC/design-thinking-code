@@ -1,0 +1,9 @@
+artifact_id,research_task,ai_tool_class,source_grounding,human_review,output_reliability,sensitive_data_exposure,prompt_traceability,model_version_recorded,hallucination_risk,minority_signal_preservation
+A001,interview_summary,llm_summarization,0.82,0.76,0.72,0.42,0.70,0.68,0.30,0.62
+A002,theme_clustering,embedding_clustering,0.74,0.70,0.66,0.36,0.64,0.60,0.38,0.54
+A003,semantic_search,retrieval_augmented_search,0.78,0.72,0.70,0.32,0.76,0.72,0.34,0.58
+A004,persona_comparison,llm_synthesis,0.64,0.62,0.58,0.44,0.60,0.56,0.50,0.48
+A005,prototype_feedback_summary,llm_summarization,0.80,0.78,0.74,0.30,0.74,0.70,0.28,0.64
+A006,public_comment_analysis,llm_clustering,0.72,0.68,0.62,0.46,0.66,0.62,0.42,0.52
+A007,accessibility_issue_triage,classification,0.76,0.74,0.70,0.38,0.70,0.66,0.36,0.60
+A008,literature_scan,retrieval_augmented_search,0.70,0.64,0.60,0.22,0.72,0.66,0.44,0.56

@@ -1,0 +1,9 @@
+risk_id,risk_category,risk_description,severity,likelihood,detectability,repair_difficulty,mitigation_owner,mitigation_status
+RG001,provenance,AI-generated synthesis may be separated from source evidence,4,4,3,3,research_ops,active
+RG002,privacy,Research repository may store sensitive transcripts beyond consent limits,5,3,4,4,privacy_owner,active
+RG003,bias,AI synthesis may flatten minority or edge-case signals,5,4,4,4,ai_governance_owner,active
+RG004,missingness,Analytics may omit non-users and people who abandoned before tracking,4,4,3,3,data_team,active
+RG005,staleness,Semantic search may retrieve outdated findings without recency flags,3,4,3,2,knowledge_architecture_owner,active
+RG006,automation_bias,Design teams may accept fluent AI summaries as validated findings,4,4,4,3,research_lead,active
+RG007,consent_reuse,Research evidence may be reused beyond participant expectations,5,3,4,4,research_governance_owner,active
+RG008,decision_traceability,Design decisions may not link back to evidence and review status,4,3,3,3,program_owner,active

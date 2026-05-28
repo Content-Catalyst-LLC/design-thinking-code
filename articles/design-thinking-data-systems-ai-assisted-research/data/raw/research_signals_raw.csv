@@ -1,0 +1,11 @@
+signal,evidence_type,source_strength,relevance,traceability,representativeness,validation,missingness_risk,ai_assistance_risk,decision_relevance,recency,consent_alignment,participant_coverage
+Application abandonment at documentation step,analytics,0.78,0.90,0.82,0.70,0.66,0.32,0.18,0.90,0.84,0.86,0.72
+Low trust in eligibility explanations,interviews,0.68,0.86,0.76,0.58,0.62,0.42,0.42,0.86,0.78,0.82,0.60
+Disabled users need assisted access,accessibility_testing,0.74,0.92,0.80,0.54,0.70,0.46,0.36,0.92,0.80,0.88,0.58
+Limited-English users misinterpret status messages,usability_testing,0.70,0.82,0.74,0.56,0.64,0.44,0.38,0.82,0.76,0.84,0.62
+Frontline staff repair data errors manually,staff_research,0.66,0.80,0.70,0.62,0.58,0.38,0.30,0.78,0.74,0.80,0.66
+Prototype improves next-step comprehension,prototype_test,0.76,0.84,0.78,0.68,0.76,0.30,0.24,0.84,0.88,0.86,0.70
+AI summary misses severe edge-case failures,ai_validation,0.60,0.88,0.66,0.48,0.52,0.54,0.76,0.88,0.82,0.78,0.50
+Service log shows repeat contact after rejection,service_logs,0.72,0.78,0.72,0.74,0.68,0.34,0.28,0.76,0.80,0.84,0.76
+Research repository lacks consent metadata,metadata_audit,0.82,0.86,0.88,0.66,0.74,0.40,0.34,0.90,0.86,0.52,0.68
+Semantic search over-retrieves outdated findings,retrieval_audit,0.70,0.76,0.68,0.60,0.58,0.44,0.62,0.74,0.52,0.78,0.64
