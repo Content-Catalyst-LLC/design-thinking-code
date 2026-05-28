@@ -1,0 +1,54 @@
+PRAGMA foreign_keys = ON;
+
+DROP VIEW IF EXISTS future_design_scores;
+DROP TABLE IF EXISTS future_design_initiatives;
+
+CREATE TABLE future_design_initiatives (
+    initiative_id INTEGER PRIMARY KEY,
+    initiative_name TEXT NOT NULL UNIQUE,
+    initiative_type TEXT NOT NULL,
+    human_centered_quality REAL NOT NULL,
+    systems_literacy REAL NOT NULL,
+    evidence_quality REAL NOT NULL,
+    ethical_maturity REAL NOT NULL,
+    ai_governance REAL NOT NULL,
+    implementation_capacity REAL NOT NULL,
+    public_value REAL NOT NULL,
+    stewardship_capacity REAL NOT NULL,
+    unmanaged_risk REAL NOT NULL,
+    participation_quality REAL NOT NULL,
+    organizational_learning REAL NOT NULL,
+    data_infrastructure REAL NOT NULL,
+    climate_responsibility REAL NOT NULL,
+    burden_awareness REAL NOT NULL
+);
+
+INSERT INTO future_design_initiatives (
+    initiative_name,
+    initiative_type,
+    human_centered_quality,
+    systems_literacy,
+    evidence_quality,
+    ethical_maturity,
+    ai_governance,
+    implementation_capacity,
+    public_value,
+    stewardship_capacity,
+    unmanaged_risk,
+    participation_quality,
+    organizational_learning,
+    data_infrastructure,
+    climate_responsibility,
+    burden_awareness
+)
+VALUES
+('AI-assisted research repository','ai_research_infrastructure',7.6,7.4,8.6,7.4,8.4,7.2,7.8,7.0,6.2,6.8,8.0,8.4,6.4,7.2),
+('Community-led systems design lab','participatory_systems_design',9.0,8.8,7.8,9.0,6.8,6.4,9.2,7.2,5.4,9.2,7.8,6.4,7.8,8.8),
+('Public value evaluation framework','public_value_evaluation',7.8,8.0,8.8,8.2,6.6,7.8,8.8,8.0,4.8,7.4,8.4,7.6,7.2,8.2),
+('Climate resilience service portfolio','climate_systems_design',8.2,9.0,8.0,8.4,6.2,6.8,9.0,7.4,5.8,8.2,7.6,7.2,9.4,8.4),
+('Design governance and ethics board','governance_ethics',7.6,7.8,7.6,9.2,7.8,7.0,8.4,8.0,4.6,7.6,7.8,7.0,7.4,8.6),
+('Institutional learning infrastructure','learning_infrastructure',7.4,8.4,9.0,7.8,7.2,7.6,8.2,8.2,5.0,7.0,9.2,8.8,7.0,7.6),
+('Participatory AI service prototype','participatory_ai_service',7.8,7.6,7.4,7.2,8.0,6.2,7.6,6.4,7.2,8.0,7.0,7.8,6.6,7.4),
+('Stewardship and repair playbook','stewardship_repair',8.4,8.2,7.8,8.8,6.4,7.4,8.8,8.8,4.4,8.2,8.0,7.0,7.8,9.0),
+('Design operations evidence system','research_operations',7.8,7.8,9.0,8.0,7.4,7.6,8.0,7.8,4.8,7.2,8.8,9.0,6.8,8.0),
+('Public sector design capability academy','design_education_capability',8.6,8.0,7.6,8.2,6.8,7.2,8.6,7.6,5.2,8.4,8.2,6.8,7.4,8.4);

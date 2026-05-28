@@ -1,0 +1,11 @@
+risk_id,initiative,risk_category,risk_description,severity,likelihood,detectability,repair_difficulty,mitigation_owner,mitigation_status
+FD001,AI-assisted research repository,ai_overconfidence,AI synthesis may overstate confidence or flatten minority signals,5,3,4,4,ai_governance_team,active
+FD002,Community-led systems design lab,participation_washing,Community-led language may be used without real decision authority,5,3,4,4,participatory_design_office,active
+FD003,Public value evaluation framework,metric_capture,Framework may privilege measurable indicators over dignity and trust,4,3,4,3,evaluation_office,active
+FD004,Climate resilience service portfolio,context_mismatch,Portfolio may transfer interventions across places without local adaptation,5,3,3,4,resilience_office,active
+FD005,Design governance and ethics board,governance_theater,Board may review issues without authority to pause or redirect design work,4,3,3,3,governance_office,active
+FD006,Institutional learning infrastructure,evidence_without_action,Learning system may document issues without changing decisions,4,4,3,3,learning_office,active
+FD007,Participatory AI service prototype,prototype_harm,AI prototype may expose users to opaque or biased service decisions,5,4,4,4,ai_governance_team,active
+FD008,Stewardship and repair playbook,repair_gap,Repair playbook may lack funding or implementation ownership,5,3,3,4,stewardship_office,active
+FD009,Design operations evidence system,research_ops_capture,Research operations may optimize documentation over community accountability,3,3,3,2,research_operations,active
+FD010,Public sector design capability academy,training_without_authority,Training may build skills without decision pathways or institutional absorption,4,3,3,3,capability_office,active
