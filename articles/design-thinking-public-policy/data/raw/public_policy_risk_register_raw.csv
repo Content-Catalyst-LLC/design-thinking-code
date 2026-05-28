@@ -1,0 +1,11 @@
+pilot,risk_category,risk_description,severity,likelihood,detectability,mitigation_owner,mitigation_status
+Benefits Application Simplification,verification_gap,Simplification could omit necessary safeguards or create inconsistent verification practice,4,3,3,benefits_policy_owner,active
+Mobile Community Health Enrollment,coverage_gap,Mobile services may miss hard-to-reach groups if outreach routes are poorly designed,4,3,4,public_health_owner,active
+Digital Licensing Renewal Redesign,digital_exclusion,Digital redesign may worsen access for users without devices connectivity or digital literacy,4,4,3,digital_service_owner,active
+School Meals Access Outreach,stigma,Outreach may inadvertently reveal eligibility status or increase stigma,4,3,3,education_program_owner,active
+Tenant Rights Navigation Service,retaliation_risk,Tenants may fear retaliation if navigation pathways are not confidential and trusted,5,3,4,housing_rights_owner,active
+Disability Benefit Renewal Redesign,procedural_harm,Renewal redesign may still impose stress or documentation requirements on disabled people,5,4,3,disability_policy_owner,active
+Climate Resilience Grant Access Pilot,elite_capture,Grant access may favor organized applicants unless support reaches under-resourced communities,5,3,4,climate_adaptation_owner,active
+Small Business Compliance Assistance,unequal_access,Compliance assistance may benefit already-connected firms more than informal or marginalized businesses,4,3,3,economic_development_owner,active
+Emergency Benefits Auto-Enrollment,due_process,Automatic enrollment may create notice appeal or consent issues if governance is weak,5,3,4,social_protection_owner,active
+Public Notices Plain-Language Redesign,legal_precision_loss,Plain-language simplification may remove legally necessary nuance if review is weak,3,3,3,legal_review_owner,active

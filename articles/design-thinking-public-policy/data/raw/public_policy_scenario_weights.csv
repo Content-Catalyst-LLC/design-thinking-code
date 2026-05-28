@@ -1,0 +1,9 @@
+scenario,accessibility,feasibility,legitimacy,equity,burden_reduction,durability,risk
+Balanced,0.20,0.16,0.16,0.20,0.14,0.08,0.06
+Feasibility First,0.16,0.34,0.12,0.14,0.10,0.08,0.06
+Equity First,0.14,0.12,0.12,0.38,0.14,0.06,0.04
+Legitimacy First,0.16,0.12,0.34,0.16,0.10,0.08,0.04
+Burden Reduction,0.18,0.12,0.12,0.18,0.34,0.04,0.02
+Durability First,0.14,0.16,0.14,0.16,0.10,0.26,0.04
+Risk Sensitive,0.17,0.16,0.16,0.18,0.13,0.06,0.14
+Access and Equity,0.30,0.10,0.10,0.30,0.12,0.04,0.04
