@@ -1,0 +1,8 @@
+scenario,human_relevance,feasibility,learning_value,residual_risk
+Balanced,0.35,0.25,0.25,0.15
+Human First,0.50,0.20,0.20,0.10
+Feasibility First,0.20,0.50,0.20,0.10
+Learning First,0.20,0.20,0.45,0.15
+Risk Sensitive,0.25,0.20,0.20,0.35
+Institutional Adoption,0.25,0.35,0.20,0.20
+Equity and Inclusion,0.45,0.15,0.25,0.15
