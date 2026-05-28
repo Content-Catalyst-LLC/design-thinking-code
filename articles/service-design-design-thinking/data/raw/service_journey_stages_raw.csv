@@ -1,0 +1,11 @@
+stage,stage_order,channel,completion_probability,clarity,trust,accessibility,user_burden,staff_load,recovery_quality,frontstage_quality,backstage_readiness,policy_complexity,data_dependency
+Discover Service,1,web_search,0.92,7.4,7.0,7.2,3.5,3.0,6.8,7.2,6.5,4.2,4.0
+Understand Eligibility,2,website_phone,0.78,5.8,5.8,5.6,5.8,5.2,5.4,5.7,5.4,7.2,5.2
+Prepare Documents,3,documents,0.70,5.2,5.4,5.0,7.4,6.0,4.8,5.1,5.2,7.8,5.8
+Submit Request,4,digital_form,0.84,6.8,6.4,6.8,6.2,5.8,5.8,6.7,6.0,6.0,6.4
+Wait for Review,5,status_portal,0.76,5.5,5.3,5.4,6.8,6.5,4.6,5.2,5.4,6.4,7.2
+Receive Decision,6,email_letter,0.88,6.4,6.2,6.0,5.6,5.6,5.2,6.2,6.0,6.8,6.0
+Resolve Issue,7,phone_support,0.62,5.0,5.5,5.8,7.2,7.4,5.0,5.3,4.9,6.6,6.8
+Maintain Access,8,portal_staff,0.80,6.2,6.0,6.4,5.9,6.2,5.6,6.1,5.8,5.8,6.2
+Renew Service,9,portal_email,0.74,5.9,5.7,5.8,6.5,6.4,5.0,5.8,5.5,6.2,6.7
+Exit or Transition,10,staff_email,0.82,6.0,6.1,6.0,5.4,5.2,5.8,6.0,5.9,5.4,5.2

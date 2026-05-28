@@ -1,0 +1,9 @@
+stage,risk_category,risk_description,severity,likelihood,detectability,mitigation_owner,mitigation_status
+Understand Eligibility,opacity,Eligibility rules may be too complex for users to understand without assisted support,4,4,3,policy_owner,active
+Prepare Documents,administrative_burden,Document requirements may exclude people with limited records or low time capacity,5,4,3,service_owner,active
+Wait for Review,status_uncertainty,Lack of meaningful status may create anxiety repeat contact and mistrust,4,4,3,operations_owner,active
+Resolve Issue,recovery_failure,Support escalation may fail when ownership and case context are unclear,5,4,4,support_owner,active
+Submit Request,digital_exclusion,Digital form may exclude users with disability language device or connectivity barriers,5,3,3,digital_service_owner,active
+Receive Decision,procedural_dignity,Decision notices may be legally correct but hard to understand or challenge,5,3,4,policy_owner,active
+Maintain Access,service_drift,Service records and renewal logic may drift without ownership and quality monitoring,4,3,3,service_owner,active
+Renew Service,burden_repetition,Renewal may force users to resubmit information already known to the service,4,4,3,operations_owner,active

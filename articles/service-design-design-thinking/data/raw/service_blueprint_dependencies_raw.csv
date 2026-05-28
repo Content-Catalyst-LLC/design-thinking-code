@@ -1,0 +1,11 @@
+stage,frontstage_actor,backstage_owner,support_system,dependency_strength,handoff_risk,data_quality,ownership_clarity,staff_discretion,automation_opacity,governance_readiness
+Discover Service,content_team,service_owner,cms_search,5.4,4.0,6.8,6.4,6.0,3.5,6.2
+Understand Eligibility,service_staff,policy_owner,eligibility_rules,7.4,6.8,5.4,5.2,4.8,4.2,5.0
+Prepare Documents,service_staff,policy_owner,document_checklist,7.8,7.0,5.2,5.0,4.5,3.8,4.8
+Submit Request,digital_service_team,operations_owner,intake_platform,7.0,6.2,6.0,5.8,5.2,5.6,5.4
+Wait for Review,case_management_team,operations_owner,case_queue_system,8.2,7.4,5.4,5.2,4.8,6.4,4.8
+Receive Decision,case_worker,policy_owner,decision_notice_system,7.2,6.6,5.8,5.4,5.0,5.8,5.2
+Resolve Issue,support_team,service_owner,crm_phone_system,8.0,7.8,5.2,4.8,6.6,5.0,4.6
+Maintain Access,service_staff,operations_owner,portal_records,7.0,6.4,5.8,5.6,5.4,5.8,5.2
+Renew Service,digital_service_team,operations_owner,renewal_system,7.6,7.0,5.4,5.0,5.0,6.2,4.9
+Exit or Transition,service_staff,service_owner,transition_records,6.4,5.8,6.0,5.8,5.8,4.6,5.6
