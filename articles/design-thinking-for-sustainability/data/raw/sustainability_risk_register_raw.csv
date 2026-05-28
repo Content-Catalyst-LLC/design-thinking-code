@@ -1,0 +1,11 @@
+concept,risk_category,risk_description,severity,likelihood,detectability,mitigation_owner,mitigation_status
+Building Retrofit Service Model,green_gentrification,Retrofit gains may raise housing costs or displacement pressure without tenant protections,5,3,4,housing_policy_owner,active
+Reusable Packaging Loop,rebound_logistics,Reverse logistics may increase transport burden or energy use if poorly designed,4,3,4,circularity_lead,active
+Neighborhood Mobility Hub,access_displacement,Mobility investments may increase neighborhood desirability without affordability protections,5,3,4,urban_planning_owner,active
+Repair and Refurbishment Platform,labor_quality,Repair ecosystem may depend on underpaid or informal labor,4,3,3,workforce_owner,active
+Community Solar Enrollment Service,participation_barrier,Enrollment process may exclude renters, low-income households, or language-minority communities,5,3,3,energy_access_owner,active
+Circular Procurement Toolkit,metric_narrowness,Procurement metrics may reward nominal circularity while missing lifecycle or labor harms,4,3,4,procurement_owner,active
+Urban Heat Resilience Network,maintenance_gap,Green infrastructure may fail if maintenance ownership and funding are weak,5,4,3,resilience_owner,active
+Water Reuse Participation Model,trust_failure,Water reuse adoption may fail if trust, safety, and transparency are weak,5,3,3,water_governance_owner,active
+Tenant-Centered Electrification Pathway,cost_shift,Electrification costs may shift to tenants or trigger rent increases,5,4,4,housing_energy_owner,active
+Food Waste Prevention Service,burden_shift,Food waste prevention may shift unpaid planning and sorting labor to households or staff,3,3,3,food_system_owner,active

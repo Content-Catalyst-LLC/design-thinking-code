@@ -1,0 +1,11 @@
+concept,concept_type,transition_domain,usability,feasibility,ecological_benefit,circularity,equity,durability,risk,evidence_quality,stakeholder_coverage,lifecycle_boundary_quality,burden_shift_risk,implementation_complexity
+Building Retrofit Service Model,service_model,built_environment,8.1,7.4,8.8,7.9,7.6,8.0,4.1,0.76,0.72,0.74,4.2,6.5
+Reusable Packaging Loop,circular_system,materials,7.6,7.8,8.5,9.1,7.2,8.2,4.6,0.73,0.68,0.78,4.8,6.1
+Neighborhood Mobility Hub,urban_infrastructure,mobility,8.4,6.9,8.2,7.1,8.4,7.8,5.0,0.70,0.74,0.69,4.9,7.0
+Repair and Refurbishment Platform,repair_platform,materials,7.9,7.5,8.0,8.8,7.8,7.9,4.2,0.75,0.70,0.76,3.9,5.8
+Community Solar Enrollment Service,energy_access,energy,8.2,7.2,8.7,7.0,8.8,8.1,4.8,0.72,0.78,0.71,4.1,6.8
+Circular Procurement Toolkit,institutional_toolkit,procurement,7.3,8.1,7.9,8.7,7.4,8.0,3.9,0.78,0.66,0.80,3.8,5.5
+Urban Heat Resilience Network,climate_resilience,adaptation,8.0,6.8,8.6,7.2,8.7,8.4,5.1,0.71,0.80,0.73,4.7,7.2
+Water Reuse Participation Model,water_system,water,7.7,7.0,8.1,7.6,8.1,7.7,4.7,0.69,0.73,0.72,4.5,6.6
+Tenant-Centered Electrification Pathway,housing_energy,energy,8.3,6.7,8.9,7.3,9.0,8.0,5.2,0.70,0.82,0.73,5.0,7.4
+Food Waste Prevention Service,food_system,food,8.5,7.9,8.0,8.2,8.0,7.8,3.8,0.77,0.75,0.74,3.4,5.4

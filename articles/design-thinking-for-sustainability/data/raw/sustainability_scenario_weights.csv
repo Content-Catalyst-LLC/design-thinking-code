@@ -1,0 +1,9 @@
+scenario,usability,feasibility,ecological_benefit,circularity,equity,durability,risk
+Balanced,0.16,0.16,0.24,0.16,0.14,0.08,0.06
+Feasibility First,0.15,0.32,0.18,0.12,0.10,0.08,0.05
+Ecology First,0.12,0.12,0.42,0.12,0.10,0.08,0.04
+Circularity First,0.12,0.12,0.18,0.38,0.10,0.06,0.04
+Equity Sensitive,0.12,0.12,0.22,0.12,0.34,0.04,0.04
+Durability First,0.12,0.14,0.20,0.14,0.10,0.26,0.04
+Risk Sensitive,0.14,0.16,0.22,0.14,0.12,0.08,0.14
+Transition Justice,0.12,0.12,0.24,0.12,0.32,0.04,0.04
