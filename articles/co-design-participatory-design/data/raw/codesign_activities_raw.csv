@@ -1,0 +1,11 @@
+activity,activity_type,design_stage,representation,accessibility,participant_influence,trust_quality,evidence_quality,implementation_accountability,decision_impact,ethical_risk,affectedness_weight,compensation_quality,feedback_loop_quality,tokenism_risk
+Community Problem-Framing Sessions,problem_framing,framing,7.8,7.4,7.6,7.0,7.2,6.8,7.4,3.8,0.88,7.0,6.8,3.9
+Frontline Worker Journey Mapping,journey_mapping,research,8.0,7.8,7.2,7.4,8.0,6.6,7.0,3.4,0.80,7.2,6.5,3.6
+Non-User Contextual Inquiry,field_research,research,6.4,6.2,6.8,5.8,6.6,5.8,6.2,5.2,0.92,6.0,5.5,5.4
+Accessible Prototype Workshops,prototype_workshop,prototyping,7.2,8.4,7.8,7.2,7.4,6.4,6.8,4.0,0.86,7.8,6.8,4.0
+Participatory Synthesis Review,synthesis_review,synthesis,6.8,7.0,7.0,6.8,7.0,7.0,7.2,3.6,0.82,6.8,7.6,3.8
+AI Decision-Scenario Walkthroughs,ai_governance,governance,6.0,6.6,6.4,6.2,6.5,7.2,6.6,6.4,0.90,6.2,6.8,5.8
+Implementation Governance Board,implementation_governance,implementation,7.0,7.2,8.0,7.0,7.2,8.4,8.2,4.2,0.78,7.0,8.2,3.8
+Community Feedback and Accountability Forum,feedback_loop,governance,7.6,8.0,7.4,7.8,7.4,8.0,7.8,3.5,0.86,7.6,8.5,3.4
+Caregiver Service Blueprinting,service_blueprinting,research,7.4,7.2,7.0,6.9,7.5,6.7,6.9,4.1,0.80,6.9,6.6,4.0
+Participatory Data Rights Review,data_governance,governance,6.8,6.8,7.2,6.6,7.1,7.8,7.4,5.6,0.88,6.7,7.8,4.9

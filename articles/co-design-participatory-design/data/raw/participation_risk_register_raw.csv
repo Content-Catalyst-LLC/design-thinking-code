@@ -1,0 +1,11 @@
+activity,risk_category,risk_description,severity,likelihood,detectability,mitigation_owner,mitigation_status
+Community Problem-Framing Sessions,tokenism,Participants may shape language but not actual problem definition if institutional frame is fixed,4,3,3,design_research_owner,active
+Frontline Worker Journey Mapping,burden_shift,Worker participation may reveal hidden labor but lead to efficiency changes that increase workload,4,3,4,operations_owner,active
+Non-User Contextual Inquiry,extraction,Excluded groups may share barriers without receiving feedback or benefit,5,4,3,community_engagement_owner,active
+Accessible Prototype Workshops,access_failure,Workshops may still exclude disabled participants if access support is incomplete,5,3,3,accessibility_owner,active
+Participatory Synthesis Review,interpretive_control,Design team may retain final interpretation despite participant review,4,3,3,synthesis_owner,active
+AI Decision-Scenario Walkthroughs,technical_opacity,Participants may be asked to evaluate AI systems without accessible explanation of model behavior,5,4,4,ai_governance_owner,active
+Implementation Governance Board,power_asymmetry,Institutional actors may dominate governance and weaken participant influence,5,3,4,governance_owner,active
+Community Feedback and Accountability Forum,feedback_fatigue,Community members may be asked for feedback repeatedly without visible implementation,4,4,3,accountability_owner,active
+Caregiver Service Blueprinting,invisible_labor,Caregiver participation may reveal unpaid labor without changing service burden,4,3,3,service_design_owner,active
+Participatory Data Rights Review,data_misuse,Participant data and design contributions may be stored or reused beyond agreed purposes,5,3,4,data_governance_owner,active

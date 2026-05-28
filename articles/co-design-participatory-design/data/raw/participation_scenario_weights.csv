@@ -1,0 +1,9 @@
+scenario,representation,accessibility,participant_influence,trust_quality,evidence_quality,implementation_accountability,decision_impact,ethical_risk
+Balanced,0.18,0.14,0.22,0.12,0.12,0.12,0.14,0.08
+Influence First,0.14,0.12,0.34,0.10,0.10,0.12,0.12,0.06
+Accessibility First,0.16,0.30,0.18,0.12,0.10,0.08,0.10,0.06
+Implementation First,0.12,0.10,0.18,0.10,0.10,0.30,0.14,0.06
+Decision Impact First,0.14,0.10,0.20,0.10,0.10,0.12,0.28,0.06
+Ethics Sensitive,0.18,0.14,0.20,0.12,0.10,0.10,0.10,0.16
+Representation First,0.32,0.14,0.18,0.10,0.10,0.08,0.08,0.00
+Trust and Safety,0.16,0.16,0.18,0.24,0.10,0.08,0.08,0.00
