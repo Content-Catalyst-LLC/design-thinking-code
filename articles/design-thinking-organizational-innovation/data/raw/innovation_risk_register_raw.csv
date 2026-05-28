@@ -1,0 +1,11 @@
+concept,risk_category,risk_description,severity,likelihood,detectability,mitigation_owner,mitigation_status
+Service Workflow Redesign,burden_shift,Workflow redesign may shift hidden labor onto frontline employees if backstage capacity is not redesigned,4,3,3,operations_owner,active
+Self-Service Support Portal,digital_exclusion,Portal may improve efficiency for confident users while excluding users needing assisted service,4,4,3,service_design_owner,active
+AI Triage Assistant,algorithmic_harm,AI triage may encode bias or reduce contestability in service routing decisions,5,4,4,ai_governance_owner,active
+Onboarding Simplification,oversimplification,Simplification may omit role-specific context needed for complex employee situations,3,3,3,people_operations_owner,active
+Cross-Functional Escalation Model,authority_conflict,Escalation model may fail if decision rights and accountability remain ambiguous,4,4,4,transformation_owner,active
+Employee Knowledge Base Redesign,knowledge_staleness,Knowledge base may decay without ownership review cadence and governance,4,3,3,knowledge_owner,active
+Customer Recovery Playbook,script_rigidity,Playbook may reduce discretion or dignity if treated as compliance script rather than recovery guide,4,3,3,customer_experience_owner,active
+Manager Decision-Support Dashboard,metric_tunnel_vision,Dashboard may privilege measurable efficiency over trust equity and employee burden,5,3,4,analytics_governance_owner,active
+Accessibility-First Service Redesign,token_inclusion,Accessibility work may be symbolic if disabled users and high-burden groups lack decision influence,5,3,4,inclusive_design_owner,active
+Innovation Governance Cadence,innovation_theater,Governance cadence may become reporting theater without decision authority or funding pathways,4,4,3,innovation_governance_owner,active

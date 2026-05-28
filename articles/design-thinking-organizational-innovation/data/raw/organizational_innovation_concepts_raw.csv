@@ -1,0 +1,11 @@
+concept,concept_type,organizational_domain,desirability,feasibility,viability,equity,learning_value,implementation_readiness,risk,evidence_quality,stakeholder_coverage,technical_complexity,organizational_complexity,ethical_risk
+Service Workflow Redesign,service_design,operations,8.6,7.3,7.7,8.1,8.4,7.2,3.6,0.76,0.72,4.8,5.5,3.8
+Self-Service Support Portal,digital_service,customer_support,7.9,8.5,8.2,7.1,7.2,8.0,4.1,0.72,0.66,5.4,5.0,4.2
+AI Triage Assistant,ai_assisted_workflow,service_operations,6.8,5.9,7.5,5.8,8.8,5.6,6.8,0.64,0.58,8.2,7.1,7.8
+Onboarding Simplification,employee_experience,people_operations,9.0,8.2,8.1,8.5,7.6,8.1,3.4,0.78,0.80,4.4,5.1,3.5
+Cross-Functional Escalation Model,operating_model,cross_functional,8.2,6.8,7.4,7.8,8.6,6.5,5.1,0.70,0.70,4.9,7.6,4.7
+Employee Knowledge Base Redesign,knowledge_system,organizational_learning,8.4,7.8,7.9,8.2,7.5,7.4,4.0,0.74,0.76,5.8,5.9,3.6
+Customer Recovery Playbook,service_recovery,customer_experience,8.7,7.6,8.0,8.0,7.8,7.1,3.8,0.75,0.74,4.6,6.0,4.0
+Manager Decision-Support Dashboard,decision_support,management_systems,7.4,6.9,7.8,6.8,8.2,6.3,5.7,0.68,0.62,7.5,6.6,6.4
+Accessibility-First Service Redesign,inclusive_design,customer_experience,8.8,7.0,7.6,9.2,8.1,6.8,4.3,0.73,0.82,5.6,6.4,3.7
+Innovation Governance Cadence,governance_model,innovation_management,7.8,7.4,8.0,7.9,8.7,7.0,4.5,0.71,0.69,4.2,7.0,4.4
