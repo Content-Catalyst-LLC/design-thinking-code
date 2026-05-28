@@ -1,0 +1,9 @@
+design_decision,risk_category,risk_description,severity,likelihood,detectability,repair_difficulty,mitigation_owner,mitigation_status
+Digital-first access,accessibility,Digital-first channel may exclude users with low digital access or assistive needs,4,4,3,4,service_owner,active
+AI-assisted case prioritization,bias,Model may misclassify high-need cases and obscure accountability,5,4,4,5,ai_governance_owner,active
+Behavioral reminder campaign,manipulation,Reminder timing or framing may pressure users without enough transparency,3,3,3,3,behavioral_design_owner,active
+Reduced human support,burden_shift,Reduced support may shift hidden labor to users caregivers and frontline staff,4,4,3,4,operations_owner,active
+Community co-design process,tokenism,Co-design language may overstate participant influence,4,3,3,3,participation_owner,active
+Data-driven personalization,privacy,Personalization may infer sensitive characteristics or obscure data use,5,3,4,4,privacy_owner,active
+Automated eligibility triage,due_process,Automated triage may affect access without explanation appeal or repair,5,4,5,5,public_service_owner,active
+Plain-language redesign,oversimplification,Simplified language may omit rights exceptions or consequences,3,2,3,2,content_owner,active

@@ -1,0 +1,9 @@
+design_decision,decision_type,harm_severity,probability,exposure,detectability,accountability,inclusion_strength,public_value,repairability,privacy_sensitivity,autonomy_risk,manipulation_risk
+Digital-first access,service_channel,0.72,0.54,0.80,0.46,0.42,0.52,0.70,0.46,0.44,0.48,0.30
+AI-assisted case prioritization,ai_system,0.86,0.48,0.62,0.38,0.36,0.46,0.74,0.36,0.82,0.62,0.44
+Behavioral reminder campaign,behavioral_design,0.42,0.40,0.74,0.66,0.58,0.62,0.64,0.58,0.50,0.54,0.66
+Reduced human support,service_operations,0.76,0.58,0.68,0.42,0.40,0.44,0.62,0.34,0.38,0.46,0.28
+Community co-design process,participatory_design,0.28,0.30,0.42,0.72,0.76,0.78,0.88,0.74,0.32,0.22,0.18
+Data-driven personalization,data_ai,0.70,0.46,0.66,0.44,0.38,0.48,0.68,0.44,0.84,0.68,0.58
+Automated eligibility triage,public_service_ai,0.90,0.42,0.56,0.34,0.32,0.40,0.80,0.30,0.78,0.72,0.48
+Plain-language redesign,communication,0.22,0.24,0.70,0.78,0.72,0.74,0.76,0.78,0.26,0.18,0.16

@@ -1,0 +1,9 @@
+group,stakeholder_type,access,voice,safety,compensation,representation,accountability,time_burden,cognitive_burden,emotional_burden,documentation_burden,uncertainty_burden,coordination_burden,affectedness,trust_level,accessibility_need
+Confident digital users,user_group,8.2,6.8,7.6,5.0,7.4,6.4,3.2,3.4,3.0,3.8,3.6,3.4,0.55,7.4,0.28
+Disabled users,user_group,5.0,5.2,5.8,4.8,5.4,5.0,7.2,7.4,6.8,7.0,7.2,7.0,0.92,5.2,0.92
+Limited English users,user_group,5.4,5.0,5.6,4.6,5.2,5.0,6.8,7.2,6.4,6.6,7.0,6.8,0.88,5.4,0.78
+Low digital access users,user_group,4.8,4.8,5.4,4.4,5.0,4.6,7.0,7.6,6.6,7.2,7.4,7.0,0.86,5.0,0.74
+Frontline staff,staff_group,7.2,6.0,6.2,5.2,6.4,5.8,6.4,6.6,6.8,5.8,6.2,6.4,0.72,6.0,0.42
+Caregivers and intermediaries,support_group,6.4,5.8,6.0,5.0,5.8,5.4,7.4,6.8,7.0,6.8,7.0,7.6,0.78,5.8,0.58
+Low-trust community members,community_group,5.8,4.6,4.8,4.2,4.8,4.4,6.8,7.0,7.8,7.0,7.8,7.2,0.84,4.2,0.62
+Community advocates,community_group,6.8,6.4,6.4,5.8,6.6,5.6,6.2,6.4,6.6,5.8,6.4,7.0,0.74,5.8,0.50
