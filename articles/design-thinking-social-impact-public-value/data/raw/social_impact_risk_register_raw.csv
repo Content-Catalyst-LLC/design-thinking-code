@@ -1,0 +1,11 @@
+risk_id,intervention,risk_category,risk_description,severity,likelihood,detectability,repair_difficulty,mitigation_owner,mitigation_status
+SI001,Assisted access pathway,capacity,Assisted access pathway may create demand that exceeds staffing and funding,4,4,3,4,service_owner,active
+SI002,Community-led research council,participation_washing,Institution may consult the council without granting decision influence,5,3,4,4,community_partnerships,active
+SI003,Plain-language eligibility redesign,policy_misalignment,Simplified language may conflict with policy interpretations or legal requirements,3,3,3,2,policy_owner,active
+SI004,Mobile outreach and navigation support,coverage_gap,Outreach may miss people outside known community networks,4,3,3,3,outreach_lead,active
+SI005,Burden audit and repair protocol,repair_failure,Institution may identify burden but fail to fund repair pathways,5,4,3,4,ethics_owner,active
+SI006,Public value dashboard,metric_capture,Dashboard may privilege measurable outputs over dignity and public value,4,4,4,3,learning_office,active
+SI007,Participatory budgeting prototype,resource_conflict,Participatory budgeting may raise expectations beyond available resources,4,3,3,4,budget_owner,active
+SI008,AI-assisted public comment synthesis,ai_bias,AI synthesis may flatten minority signals or overstate public consensus,5,3,4,4,ai_governance_owner,active
+SI009,Community climate resilience hub,sustainability,Resilience hub may depend on short-term funding and temporary partnerships,4,4,3,4,resilience_owner,active
+SI010,Mutual aid data cooperative,data_governance,Data cooperative may face privacy, consent, and stewardship risks,5,3,4,4,data_stewardship_owner,active

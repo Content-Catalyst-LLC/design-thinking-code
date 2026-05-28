@@ -1,0 +1,9 @@
+stakeholder_group,stakeholder_type,baseline_time_burden,baseline_cognitive_burden,baseline_emotional_burden,baseline_documentation_burden,baseline_uncertainty_burden,post_time_burden,post_cognitive_burden,post_emotional_burden,post_documentation_burden,post_uncertainty_burden,affectedness,voice,influence,repair_access,trust_gap,accessibility_need
+Low-income households,community_member,8.2,8.0,7.8,8.4,8.2,6.6,6.4,6.2,6.8,6.6,0.92,4.2,3.6,4.0,7.8,0.58
+Disabled residents,community_member,8.4,8.6,7.8,8.0,8.6,6.8,6.6,6.4,6.8,6.8,0.90,4.0,3.4,3.8,8.0,0.94
+Limited English speakers,community_member,8.0,8.2,7.4,7.8,8.2,6.4,6.4,6.0,6.6,6.4,0.86,3.8,3.2,3.8,7.6,0.84
+Frontline nonprofit staff,service_provider,7.2,7.4,7.8,6.8,7.0,6.6,6.8,7.0,6.2,6.4,0.74,6.0,5.4,5.8,6.4,0.36
+Community advocates,community_partner,6.8,6.6,8.0,6.4,7.6,6.2,6.0,7.0,5.8,6.8,0.82,5.8,4.8,4.6,8.0,0.50
+Public agency staff,institutional_actor,6.2,6.8,6.2,6.4,6.6,6.0,6.2,5.8,6.0,6.0,0.64,6.4,6.0,5.8,5.2,0.28
+Youth participants,community_member,7.6,7.8,7.2,7.4,7.8,6.2,6.2,6.0,6.0,6.2,0.84,4.4,3.8,4.2,7.2,0.46
+Caregivers,community_member,8.0,7.8,7.6,7.8,8.0,6.6,6.2,6.4,6.4,6.4,0.82,4.6,3.8,4.4,7.0,0.42

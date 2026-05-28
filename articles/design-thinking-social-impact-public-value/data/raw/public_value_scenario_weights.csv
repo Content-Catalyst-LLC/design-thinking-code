@@ -1,0 +1,8 @@
+scenario,public_value_score,impact_readiness,stewardship_need,access,equity,dignity,legitimacy,accountability,burden_reduction,governance_strength,participation_quality
+Balanced,0.18,0.18,0.11,0.08,0.09,0.07,0.08,0.08,0.09,0.07,0.07
+Equity and Burden First,0.14,0.12,0.10,0.10,0.18,0.08,0.07,0.08,0.20,0.05,0.08
+Governance and Accountability,0.14,0.14,0.12,0.06,0.08,0.06,0.12,0.18,0.06,0.16,0.08
+Community Power,0.12,0.12,0.10,0.06,0.12,0.08,0.13,0.10,0.08,0.07,0.22
+Implementation Readiness,0.14,0.26,0.18,0.05,0.06,0.05,0.06,0.08,0.05,0.12,0.05
+Stewardship First,0.15,0.12,0.25,0.06,0.08,0.07,0.08,0.10,0.08,0.10,0.04
+Public Legitimacy,0.15,0.13,0.10,0.06,0.09,0.09,0.19,0.12,0.06,0.07,0.04

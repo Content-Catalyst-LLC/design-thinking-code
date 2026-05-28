@@ -1,0 +1,9 @@
+participation_activity,participation_level,affected_people_involved,decision_influence,compensation,accessibility_support,language_support,feedback_loop,community_ownership,power_sharing,documentation_quality,ethical_review
+Public listening sessions,consult,0.68,0.42,0.30,0.58,0.62,0.46,0.28,0.32,0.70,0.62
+Co-design workshops,co_design,0.74,0.66,0.64,0.70,0.68,0.62,0.46,0.54,0.76,0.70
+Community advisory board,co_govern,0.72,0.74,0.68,0.72,0.70,0.66,0.62,0.68,0.78,0.74
+Community-led research council,community_led,0.82,0.82,0.76,0.78,0.78,0.74,0.80,0.82,0.82,0.78
+Prototype testing sessions,test,0.60,0.48,0.52,0.64,0.58,0.50,0.34,0.36,0.68,0.66
+Participatory budgeting assembly,co_govern,0.76,0.78,0.58,0.70,0.68,0.70,0.64,0.72,0.74,0.72
+Public comment AI synthesis review,consult,0.54,0.36,0.20,0.48,0.52,0.42,0.20,0.24,0.56,0.60
+Mutual aid data cooperative governance,community_led,0.78,0.80,0.70,0.74,0.72,0.76,0.82,0.84,0.80,0.78
