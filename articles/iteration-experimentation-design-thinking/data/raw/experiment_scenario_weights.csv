@@ -1,0 +1,9 @@
+scenario,learning_gain,update_flexibility,expected_improvement,residual_risk
+Balanced,0.35,0.25,0.25,0.15
+Learning First,0.50,0.20,0.20,0.10
+Flexibility First,0.20,0.50,0.20,0.10
+Improvement First,0.20,0.20,0.45,0.15
+Risk Sensitive,0.25,0.20,0.20,0.35
+Implementation Aware,0.25,0.25,0.30,0.20
+Ethics Sensitive,0.30,0.20,0.20,0.30
+Scaling Aware,0.25,0.20,0.35,0.20

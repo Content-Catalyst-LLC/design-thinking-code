@@ -1,0 +1,8 @@
+experiment,requires_informed_consent,participant_burden,privacy_sensitivity,power_asymmetry,review_priority,notes
+Low-Fidelity Service Simulation,0,0.30,0.25,0.35,0.32,Low-risk simulation but should avoid misleading participants.
+Limited Workflow Pilot,1,0.55,0.45,0.50,0.52,May affect staff workload and service access.
+A/B Message Framing Test,0,0.35,0.40,0.42,0.39,Needs care around behavioral influence and interpretation.
+Cross-Functional Process Trial,1,0.50,0.35,0.48,0.47,Workflow changes may redistribute labor.
+Shadow-Mode Digital Service Test,1,0.45,0.75,0.62,0.62,High data-governance and transparency sensitivity.
+Concierge Support Prototype,1,0.48,0.38,0.45,0.46,Potential inequity if high-touch support is temporary.
+Staged Policy Pilot,1,0.70,0.65,0.72,0.70,High-stakes pilot requires strong governance and safeguards.
