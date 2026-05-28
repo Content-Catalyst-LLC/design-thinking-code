@@ -1,0 +1,9 @@
+scenario,human_value,system_leverage,feasibility,equity_sensitivity,durability,risk
+Balanced,0.24,0.26,0.18,0.14,0.12,0.06
+Human Centered,0.40,0.20,0.16,0.10,0.10,0.04
+Leverage First,0.16,0.44,0.14,0.10,0.10,0.06
+Feasibility First,0.20,0.18,0.36,0.10,0.10,0.06
+Equity Sensitive,0.18,0.22,0.14,0.34,0.08,0.04
+Durability First,0.18,0.22,0.14,0.10,0.32,0.04
+Risk Sensitive,0.20,0.22,0.16,0.12,0.10,0.20
+Deep Leverage,0.14,0.50,0.10,0.12,0.10,0.04

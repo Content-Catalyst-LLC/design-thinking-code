@@ -1,0 +1,9 @@
+intervention,risk_category,risk_description,severity,likelihood,detectability,mitigation_owner,mitigation_status
+Service Navigation Redesign,local_optimization,Touchpoint improvements may leave upstream eligibility burdens untouched,4,3,3,service_owner,active
+Eligibility Rule Simplification,policy_complexity,Simplification may create difficult edge cases requiring discretion and appeals,5,3,4,policy_owner,active
+Information Flow Dashboard,metric_distortion,Dashboard visibility may encourage optimization of visible metrics rather than meaningful outcomes,4,3,4,evaluation_lead,active
+Cross-Agency Referral Protocol,coordination_failure,Referral protocol may fail if agencies lack aligned incentives and decision rights,5,4,3,governance_owner,active
+Participatory Governance Review,power_asymmetry,Participation may become symbolic if authority remains unchanged,5,3,4,governance_owner,active
+Community Support Infrastructure,partner_burden,Community partners may absorb institutional burden without adequate funding,5,4,3,partnership_owner,active
+Burden-Aware Intake Redesign,burden_shift,Reduced user effort may increase frontline staff workload without support,4,3,3,operations_lead,active
+Institutional Learning Loop,no_action,Learning loop may produce reports without decision authority or resource commitments,4,3,4,learning_owner,active

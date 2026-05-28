@@ -1,0 +1,9 @@
+intervention,intervention_type,leverage_level,human_value,system_leverage,feasibility,equity_sensitivity,durability,risk,evidence_quality,stakeholder_coverage,context_complexity,delay_sensitivity,burden_shift_risk
+Service Navigation Redesign,service_redesign,workflow,8.7,6.8,8.1,7.9,7.5,3.5,0.78,0.74,5.0,0.35,3.9
+Eligibility Rule Simplification,policy_rule,rule,8.1,8.6,6.9,8.2,8.3,4.7,0.74,0.68,6.7,0.48,4.2
+Information Flow Dashboard,information_flow,information_flow,7.2,8.2,7.8,7.4,7.6,4.0,0.77,0.70,5.8,0.42,3.8
+Cross-Agency Referral Protocol,coordination_protocol,governance,7.8,8.4,6.7,7.8,8.1,5.1,0.72,0.71,7.1,0.55,4.9
+Participatory Governance Review,governance_change,governance,7.6,8.7,6.3,8.8,8.5,5.3,0.70,0.82,7.4,0.58,4.4
+Community Support Infrastructure,support_infrastructure,infrastructure,8.4,8.0,7.1,8.6,8.0,4.6,0.76,0.80,6.4,0.50,3.7
+Burden-Aware Intake Redesign,service_redesign,workflow,8.6,7.4,7.7,8.5,7.6,4.1,0.79,0.78,5.6,0.40,3.4
+Institutional Learning Loop,learning_system,feedback_loop,7.7,8.8,7.0,8.0,8.6,4.8,0.75,0.77,6.8,0.62,4.0
