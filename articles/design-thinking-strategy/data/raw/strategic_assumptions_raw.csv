@@ -1,0 +1,16 @@
+option,assumption,assumption_type,importance,confidence,test_cost,time_to_test,ethical_sensitivity,decision_threshold,current_evidence
+Simplify Core Service Journey,Users abandon because burden is the dominant barrier,user_behavior,0.88,0.62,0.30,4,0.30,0.70,journey evidence and support logs
+Simplify Core Service Journey,Backstage systems can support simplified handoffs,implementation,0.82,0.58,0.42,5,0.40,0.68,service blueprint draft
+Launch Assisted Access Model,High-burden users will use assisted access if trust is established,user_behavior,0.90,0.56,0.44,5,0.55,0.72,stakeholder interviews
+Launch Assisted Access Model,Staffing model can sustain assisted support at scale,operations,0.86,0.48,0.62,7,0.50,0.70,capacity estimates
+Build AI-Supported Research Synthesis,AI synthesis reduces analysis time without flattening minority signals,data_ai,0.80,0.46,0.55,5,0.70,0.68,prototype notes
+Build AI-Supported Research Synthesis,Governance controls can prevent unsupported recommendations,governance,0.84,0.50,0.52,6,0.76,0.72,AI review checklist
+Create Community Partnership Channel,Community partners see real influence not symbolic consultation,legitimacy,0.92,0.52,0.48,6,0.82,0.75,early partner conversations
+Create Community Partnership Channel,Institution can respond to community-defined priorities,governance,0.88,0.44,0.56,7,0.80,0.74,decision-rights gap
+Redesign Onboarding and Adoption System,Onboarding friction is the main adoption constraint,user_behavior,0.82,0.66,0.28,3,0.36,0.70,analytics and user testing
+Redesign Onboarding and Adoption System,Managers will reinforce adoption behaviors,organizational,0.74,0.54,0.36,4,0.45,0.66,manager interviews
+Develop Strategic Learning Dashboard,Leaders will use evidence in review rituals,organizational,0.84,0.50,0.40,4,0.48,0.70,leadership workshop
+Develop Strategic Learning Dashboard,Data sources are reliable enough for decision review,data_quality,0.78,0.56,0.46,5,0.42,0.68,data audit notes
+Prototype Public Value Governance Review,Governance review can change scale decisions,governance,0.90,0.42,0.52,6,0.86,0.76,policy review draft
+Build Frontline Implementation Lab,Frontline staff participation will reveal implementation failure earlier,implementation,0.88,0.60,0.42,5,0.58,0.72,staff interviews
+Build Frontline Implementation Lab,Leadership will act on frontline evidence even when inconvenient,organizational,0.86,0.46,0.48,6,0.70,0.74,change-readiness review

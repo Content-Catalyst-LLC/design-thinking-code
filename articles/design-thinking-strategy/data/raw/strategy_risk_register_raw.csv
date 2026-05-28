@@ -1,0 +1,9 @@
+option,risk_category,risk_description,severity,likelihood,detectability,mitigation_owner,mitigation_status
+Simplify Core Service Journey,oversimplification,Simplification may obscure necessary due-process information,4,2,3,service_owner,active
+Launch Assisted Access Model,capacity,Assisted access may create demand that exceeds staffing capacity,4,4,3,operations_owner,active
+Build AI-Supported Research Synthesis,ai_bias,AI synthesis may flatten minority signals or overstate weak evidence,5,4,4,data_governance_owner,active
+Create Community Partnership Channel,legitimacy,Community partnership may become consultation without decision influence,5,3,4,partnership_owner,active
+Redesign Onboarding and Adoption System,adoption,Onboarding may improve starts without sustained adoption,3,3,3,product_owner,active
+Develop Strategic Learning Dashboard,metric_tunnel,Dashboard may narrow strategy to what is measurable,4,3,4,analytics_owner,active
+Prototype Public Value Governance Review,decision_latency,Governance review may slow needed action without clear thresholds,3,3,3,governance_owner,active
+Build Frontline Implementation Lab,organizational_resistance,Frontline evidence may be ignored if it conflicts with executive commitments,5,3,4,implementation_owner,active
