@@ -1,0 +1,9 @@
+scenario,desirability,feasibility,viability,responsibility,risk_penalty
+Balanced,0.25,0.20,0.20,0.20,0.15
+Desirability First,0.42,0.16,0.16,0.16,0.10
+Feasibility First,0.16,0.42,0.16,0.16,0.10
+Viability First,0.16,0.18,0.42,0.14,0.10
+Responsibility First,0.16,0.16,0.16,0.42,0.10
+Risk Sensitive,0.20,0.16,0.16,0.18,0.30
+Equity Sensitive,0.20,0.16,0.16,0.33,0.15
+Pilot Readiness,0.18,0.26,0.24,0.18,0.14

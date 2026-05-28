@@ -1,0 +1,9 @@
+metric,threshold_direction,threshold_value,decision_implication
+task_success_rate,greater_or_equal,0.80,Advance or continue if equity and risk signals are acceptable.
+error_rate,less_or_equal,0.12,Revise if errors remain above threshold.
+critical_issue_count,less_or_equal,1,Stop or redesign if critical issues persist.
+comprehension,greater_or_equal,8.00,Revise language and sequence if comprehension remains weak.
+trust,greater_or_equal,7.75,Investigate legitimacy and privacy signals if trust remains low.
+observed_friction,less_or_equal,3.50,Reduce workflow or cognitive burden if friction remains high.
+stakeholder_coverage,greater_or_equal,0.70,Recruit additional participants if coverage is too narrow.
+evidence_quality,greater_or_equal,0.75,Run additional testing if evidence quality is weak.

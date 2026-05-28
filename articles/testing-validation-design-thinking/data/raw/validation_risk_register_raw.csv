@@ -1,0 +1,9 @@
+concept,risk_category,risk_description,severity,likelihood,detectability,mitigation_owner,mitigation_status
+Guided Onboarding Flow,comprehension,Users may follow the flow without understanding downstream consequences,4,3,4,research_lead,active
+Simplified Intake Form,policy,Simplified form language may omit legally relevant nuance,4,3,3,policy_counsel,active
+Service Navigation Wizard,trust,Wizard may create false confidence if guidance is incomplete,5,3,3,research_lead,active
+Follow-Up Reminder System,privacy,Reminder content may expose sensitive service participation,5,2,4,privacy_owner,active
+Human Support Escalation Pathway,capacity,Escalation pathway may create unsustainable staff demand,4,4,3,operations,active
+Status Visibility Dashboard,data_quality,Dashboard may show stale or misleading status information,5,3,3,engineering,active
+Exception Handling Service Blueprint,governance,Exception ownership may remain unclear across roles,4,4,4,program_owner,active
+Plain-Language Eligibility Guide,equity,Guide may work for average cases but fail complex edge cases,4,3,4,research_lead,active

@@ -1,0 +1,9 @@
+concept,prototype_type,fidelity_level,desirability,feasibility,viability,responsibility,friction,residual_risk,evidence_quality,stakeholder_coverage,method_triangulation,equity_signal,accessibility_signal,operational_signal
+Guided Onboarding Flow,digital_flow,mid,8.5,7.6,7.8,7.6,3.9,4.0,0.76,0.70,0.72,7.4,7.2,7.5
+Simplified Intake Form,form_redesign,low,8.0,8.4,8.0,8.2,3.4,3.5,0.81,0.74,0.76,8.0,7.9,8.2
+Service Navigation Wizard,guided_service,mid,7.9,7.3,7.5,7.3,4.5,4.6,0.72,0.66,0.68,7.1,6.9,7.0
+Follow-Up Reminder System,communication_system,mid,7.6,8.1,8.2,7.8,3.7,3.9,0.78,0.69,0.73,7.5,7.4,8.0
+Human Support Escalation Pathway,service_pathway,mid,8.4,7.2,7.4,8.5,4.1,4.3,0.79,0.78,0.75,8.6,8.3,7.1
+Status Visibility Dashboard,status_system,high,8.2,7.8,7.7,7.9,3.8,4.1,0.75,0.72,0.74,7.8,7.6,7.7
+Exception Handling Service Blueprint,service_blueprint,low,8.1,7.5,7.6,8.3,4.0,4.2,0.77,0.80,0.78,8.4,8.1,7.6
+Plain-Language Eligibility Guide,content_prototype,low,8.3,8.6,8.1,8.4,3.2,3.3,0.84,0.76,0.80,8.2,8.5,8.3
